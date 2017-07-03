@@ -1,0 +1,5 @@
+git init
+git add -A
+git commit
+git remote add origin https://github.com/Alex-Tsvetanov/Trees.git
+git push -u origin master
